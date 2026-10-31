@@ -51,9 +51,15 @@ A skill-capable Codex environment, your manuscript and rights information, and t
 | Environment | Status |
 | --- | --- |
 | Codex | Package structure, relative references, privacy scan, and ZIP contents checked on October 31, 2026. Public-package installation and an end-to-end publishing run have not been tested. |
-| Other skill-capable assistants | Unknown; no compatibility or installation claim is made for this package. |
+| Claude Code | Possible option: documented skill-folder import path; **untested with this package**. See [setup notes](INSTALL.md#other-platforms-possible-untested-options). |
+| Claude web / Desktop Skills | Possible option: documented custom-skill ZIP upload; **untested and may need metadata adaptation**. Account features and available tools determine which steps can run. |
+| Cursor | Possible option: documented Agent Skills folder support; **untested with this package**. |
+| Gemini CLI | Possible option: documented Agent Skills folder support; **untested with this package**. |
+| Other assistants | Unknown. Reading Markdown alone does not establish skill import, file generation, or publishing support. |
 
 Browser and account operations depend on the host's supported tools and permissions. Codex invocation syntax and controls should not be assumed to work in other products.
+
+These are candidates to try, not compatibility certifications. [Platform-specific setup notes and official documentation](INSTALL.md#other-platforms-possible-untested-options) explain the available import paths. No alternative-platform installation or publishing test was performed.
 
 ## Privacy and scope
 
