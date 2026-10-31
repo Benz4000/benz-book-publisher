@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Benz Book Publisher</title><desc id="desc">Original Benz wordmark with an open-book symbol in charcoal, gold, and white.</desc>
+<rect width="1200" height="320" rx="24" fill="#17191c"/>
+<path d="M80 91 Q144 70 204 99 L204 231 Q144 202 80 221 Z M212 99 Q272 70 336 91 L336 221 Q272 202 212 231 Z" fill="none" stroke="#d7b56d" stroke-width="5" stroke-linejoin="round"/>
+<path d="M208 101 V232" stroke="#d7b56d" stroke-width="4"/>
+<text x="395" y="143" font-family="Georgia,serif" font-size="70" letter-spacing="8" fill="#d7b56d">BENZ</text>
+<text x="398" y="203" font-family="Arial,sans-serif" font-size="34" fill="#ffffff">Book Publisher</text>
+<text x="398" y="248" font-family="Arial,sans-serif" font-size="20" fill="#c9cbd0">Consistent books. Carefully checked releases.</text>
+</svg>
